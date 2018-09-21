@@ -1,0 +1,25 @@
+_repo: A-History-of-Advertising-from-the-Earliest-Times_54149
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Sampson, Henry
+    birthdate: 1841
+    deathdate: 1891
+    gutenberg_agent_id: '47731'
+    url: http://www.gutenberg.org/2009/agents/47731
+description: ''
+gutenberg_issued: '2017-02-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '54149'
+  lccn: 09014076
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'HF'
+- !lcsh 'Advertising -- History'
+- GITenberg
+title: A History of Advertising from the Earliest Times.
+url: http://www.gutenberg.org/ebooks/54149
